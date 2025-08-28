@@ -1,10 +1,3 @@
-# briggzeee-npc-density
-
-**Author:** BriggZeee  
-**Description:** Reduce NPC vehicles and pedestrians with configurable multipliers and suppression options. Works with QBCore but can also run standalone.
-
----
-
 ## ✨ Features
 - Control the density of traffic, pedestrians, parked cars, random vehicles, and scenario peds.
 - Disable entire scenario types (e.g. police cars, races, etc.).
